@@ -11,3 +11,7 @@ wheels/
 
 # Secrets API Token
 .env 
+
+# Images
+/assets
+
